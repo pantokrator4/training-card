@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/training-card/static/css/main.31d6cfe0.css",
+    "main.js": "/training-card/static/js/main.7f781447.js",
+    "static/js/453.37667be5.chunk.js": "/training-card/static/js/453.37667be5.chunk.js",
+    "index.html": "/training-card/index.html",
+    "main.7f781447.js.map": "/training-card/static/js/main.7f781447.js.map",
+    "453.37667be5.chunk.js.map": "/training-card/static/js/453.37667be5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.7f781447.js"
+  ]
+}
